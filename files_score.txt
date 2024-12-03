@@ -1,0 +1,16 @@
+File0
+8.671717171717171
+['i', 'the', 'and', 'to', 'a']
+['that', 'spleen', 'thought', 'soon', 'with']
+File1
+9.522727272727272
+['the', 'is', 'estimated', 'in', 'of']
+['mechanicsâ', 'its', 'onâ', 'of', 'from']
+File0
+8.645728643216081
+['i', 'the', 'and', 'to', 'a']
+['in', 'take', 'up', 'cato', 'principle']
+File1
+9.522727272727272
+['the', 'is', 'estimated', 'in', 'of']
+['sass', 'available', 'actors', 'frequently', 'guild']
